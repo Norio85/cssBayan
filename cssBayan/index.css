@@ -1,0 +1,8 @@
+body {
+    background-image: url(/cssBayan/cssBayan/img/bak.jpg);
+    max-width: 1920px;
+    min-height: 1080px;
+}
+.container {
+    background-color: aqua;
+}
